@@ -24,4 +24,8 @@ You can easily **add**, **view**, **search**, **filter**, and **delete** submiss
 ---
 
 ## 📂 Project Structure
+|-->README.md
+|-->app.py
+|-->database.py
+|-->practical_database.db (automatically created)
 
